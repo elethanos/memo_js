@@ -1,0 +1,9 @@
+* Simple Memo Game
+
+To run this memo game, just download it using:
+
+: $ git clone https://github.com/elethanos/memo_js.git
+
+Then go in the =memo_js= folder and open the file =memo.html= from your favorite web browser (E.g: Firefox).
+
+Enjoy!
